@@ -7,4 +7,17 @@ cd  osint
 bash  install
 ```
 
+```
+perl libmoose-perl
+```
+```
+perl libwww-perl -y
+```
+
+
+
+
 # Modo de uso
+
+
+
